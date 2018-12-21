@@ -1,0 +1,11 @@
+hk neut
+kk masc
+kvk fem
+lo adj
+so verb
+ao adv
+to num
+pfn pers pron
+afturbfn refl pron
+fn pron
+gr art

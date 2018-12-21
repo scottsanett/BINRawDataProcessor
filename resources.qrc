@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>rules/cat.txt</file>
+        <file>rules/rules.txt</file>
+    </qresource>
+</RCC>
