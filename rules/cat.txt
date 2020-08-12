@@ -5,7 +5,7 @@ lo adj
 so verb
 ao adv
 to num
-pfn pers pron
-afturbfn refl pron
+pfn perspron
+abfn reflpron
 fn pron
 gr art

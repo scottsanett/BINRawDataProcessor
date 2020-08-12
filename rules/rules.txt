@@ -249,6 +249,7 @@ GM-FH-ÞT-3P-FT active indicative past tense 3rd person plural
 GM-FH-ÞT-3P-FT2 active indicative past tense 3rd person plural variant 2
 GM-NH active infinitive
 GM-NH-ÞT active infinitive past tense
+GM-NH-ÞT active infinitive past tense variant 2
 GM-SAGNB active supine
 GM-SAGNB2 active supine variant 2
 GM-VH-NT-1P-ET active subjunctive present tense 1st person singular
@@ -319,6 +320,7 @@ KVK-ÞFFT feminine accusative plural
 KVK-ÞGFET feminine dative singular
 KVK-ÞGFFT feminine dative plural
 LH-NT present participle
+LH-NT2 present participle variant 2
 LHÞT-SB-HK-EFET past participle indefinite neuter genitive singular
 LHÞT-SB-HK-EFET2 past participle indefinite neuter genitive singular variant 2
 LHÞT-SB-HK-EFFT past participle indefinite neuter genitive plural
@@ -668,3 +670,37 @@ to_KVK_ÞGFFT2 feminine dative plural variant 2
 ÞGFFTgr dative plural definite
 ÞGFFTgr2 dative plural definite variant 2
 ÞGFFTgr3 dative plural definite variant 3
+ÞF accusative
+ÞGF dative
+EF genitive
+KK_NFET masculine nominative singular
+KK_ÞFET masculine accusative singular
+KK_ÞGFET masculine dative singular
+KK_EFET masculine genitive singular
+KK_NFFT masculine nominative plural
+KK_ÞFFT masculine accusative plural
+KK_ÞGFFT masculine dative plural
+KK_ÞGFFT2 masculine dative plural variant 2
+KK_EFFT masculine genitive plural
+KK_EFFT2 masculine genitive plural variant 2
+KVK_NFET feminine nominative singular
+KVK_ÞFET feminine accusative singular
+KVK_ÞGFET feminine dative singular
+KVK_EFET feminine genitive singular
+KVK_NFFT feminine nominative plural
+KVK_ÞFFT feminine accusative plural
+KVK_ÞGFFT feminine dative plural
+KVK_ÞGFFT2 feminine dative plural variant 2
+KVK_EFFT feminine genitive plural
+KVK_EFFT2 feminine genitive plural variant 2
+HK_NFET neuter nominative singular
+HK_ÞFET neuter accusative singular
+HK_ÞGFET neuter dative singular
+HK_EFET neuter genitive singular
+HK_NFFT neuter nominative plural
+HK_ÞFFT neuter accusative plural
+HK_ÞGFFT neuter dative plural
+HK_ÞGFFT2 neuter dative plural variant 2
+HK_EFFT neuter genitive plural
+HK_EFFT2 neuter genitive plural variant 2
+
